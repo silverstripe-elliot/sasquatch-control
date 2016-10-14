@@ -13,5 +13,5 @@ $databaseConfig = array(
     "type" => 'SQLiteDatabase',
     "server" => 'none',
     "database" => $database,
-    "path" => "/var/www/sasquatch-control.db",
+    "path" => SS_SQLITE_PATH,
 );

@@ -7,7 +7,6 @@
 		"silverstripe/framework": "3.4.1",
 		"silverstripe/reports": "3.4.1",
 		"silverstripe/siteconfig": "3.4.1",
-		"silverstripe-themes/simple": "~3.2.0",
 		"silverstripe/sqlite3": "^1.4"
 	},
 	"require-dev": {

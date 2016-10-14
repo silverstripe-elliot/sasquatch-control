@@ -18,3 +18,4 @@ assets
 assets-admin/
 sqlite3/
 vendor/
+.idea/
